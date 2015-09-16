@@ -10,11 +10,12 @@ Difficulties: Model, Plugin(!)
 
 
 ##Final Projects:
+The Folder *Tasks* contains following projects:
 
 ###Model Widget:
 Create a Model in a normal Application, which gets the fileNames of a Folder and stores it in a model.
 
-Problem: none
+Problems: none
 
 
 ###Model Widget w FileReader Class:
