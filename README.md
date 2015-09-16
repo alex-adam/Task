@@ -28,12 +28,12 @@ Problem: Model (from FileReader-Object) can not be used to set the model of the 
 
 ###MainProgramm (+Plugin)
 Plugin could not be imported in the MainProgramm…
-So I copied the WhereTheIssAt Project and used this one 
+So I copied the *WhereTheIssAt Project* and used this one 
 
 
 
 ###WhereTheIssAt (+Plugin)
-Because of the Problems of MainProgramm (+ Plugin) I copied a previous test and used this as a template (That’s why it is called WhereTheIssAt…)
+Because of the Problems of *MainProgramm (+ Plugin)* I copied a previous test and used this as a template (That’s why it is called *WhereTheIssAt*…)
 
 Plugin:
 Object ISS contains the model Test which stores the FileNames of a specific folder.
